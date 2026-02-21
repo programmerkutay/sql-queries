@@ -21,3 +21,8 @@ Indexing: Büyük veri setlerinde (250.000+ satır) Clustered Index kullanarak s
 Aşama 1: Temel öğrenci-not sistemi ve temel operatörler.
 Aşama 2: SatisVT ve DbYeni veritabanları üzerinden ticari mantık (Stok, Hareket, Kasa takibi).
 Aşama 3: T-SQL Değişkenler, döngüler (While), karar yapıları (If-Else, Case).
+
+
+<img width="596" height="403" alt="Ekran görüntüsü 2026-02-21 211926" src="https://github.com/user-attachments/assets/a3bfab4d-b687-4f04-8196-eff6797211c6" />
+<img width="588" height="352" alt="Ekran görüntüsü 2026-02-21 211846" src="https://github.com/user-attachments/assets/a14b12f1-169a-4cda-8750-a58298630837" />
+<img width="834" height="731" alt="Ekran görüntüsü 2026-02-21 211948" src="https://github.com/user-attachments/assets/0664153d-2eee-4093-b67f-585bc15671e3" />
